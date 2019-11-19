@@ -1,0 +1,4 @@
+Estos ejercicios los hice con Sublime porque al intentar usar intelliJ en mi computadora no me daba las opciones que necesitaba para crear las clases o no sabia bien como utilizarlo.
+Por eso mismo tampoco lo pude ejecutar, me gustaria aclarar eso antes de que pase a los ejercicios por si salen muchos errores espero lo pueda tener en cuenta.
+
+Un abrazo.
